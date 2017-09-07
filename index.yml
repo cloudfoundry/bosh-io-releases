@@ -58,7 +58,6 @@
 - url: https://github.com/cloudfoundry-community/postgresql-docker-boshrelease
 - url: https://github.com/cppforlife/turbulence-release
 - url: https://github.com/cloudfoundry-community/slack-notification-resource-boshrelease
-- url: https://github.com/cloudfoundry-incubator/datadog-firehose-nozzle-release
 - url: https://github.com/cloudfoundry-community/tor-boshrelease
 - url: https://github.com/cloudfoundry-incubator/cf-routing-release
 - url: https://github.com/cloudfoundry-incubator/diego-docker-cache-release
