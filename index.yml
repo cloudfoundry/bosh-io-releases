@@ -39,7 +39,7 @@
 - url: https://github.com/pivotal-cf/cf-redis-release
   min_version: 266
 - url: https://github.com/cloudfoundry/cf-syslog-drain-release
-  min_version: 1
+  min_version: 2
 - url: https://github.com/cloudfoundry-community/consul-boshrelease
   min_version: 10
 - url: https://github.com/cloudfoundry-community/docker-registry-boshrelease
