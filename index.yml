@@ -80,6 +80,7 @@
 - url: https://github.com/compozed/nfs-boshrelease
 - url: https://github.com/cloudfoundry-incubator/consul-release
 - url: https://github.com/cloudfoundry/loggregator
+  min_version: 9
 - url: https://github.com/cloudfoundry-community/bosh-cloudstack-cpi-release
   min_version: 5
 - url: https://github.com/vito/grafana-boshrelease
