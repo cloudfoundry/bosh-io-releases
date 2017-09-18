@@ -1,8 +1,6 @@
 - url: https://github.com/concourse/concourse
   min_version: 0.11
   homepage: true
-- url: https://github.com/cppforlife/bosh-warden-cpi-release
-  min_version: 10
 - url: https://github.com/cloudfoundry/cflinuxfs2-release
 - url: https://github.com/cloudfoundry/cf-mysql-release
   min_version: 15
@@ -25,12 +23,9 @@
   homepage: true
 - url: https://github.com/cloudfoundry/config-server-release
   min_version: 0.0.1
-- url: https://github.com/cloudfoundry-incubator/bosh-openstack-cpi-release
 - url: https://github.com/cloudfoundry-incubator/winc-release
 - url: https://github.com/cloudfoundry-incubator/backup-and-restore-sdk-release
   min_version: 1
-- url: https://github.com/cloudfoundry-incubator/bosh-aws-cpi-release
-- url: https://github.com/cloudfoundry-incubator/bosh-vcloud-cpi-release
 - url: https://github.com/pivotal-cf/cf-rabbitmq-release
   min_version: 54
   homepage: true
@@ -50,7 +45,6 @@
 - url: https://github.com/cloudfoundry-community/crate-boshrelease
 - url: https://github.com/cloudfoundry-community/redis-consul-boshrelease
 - url: https://github.com/cloudfoundry-community/monitor-server-boshrelease
-- url: https://github.com/cloudfoundry-incubator/bosh-vsphere-cpi-release
 - url: https://github.com/cloudfoundry-community/route-registrar-boshrelease
 - url: https://github.com/cloudfoundry-community/jumpbox-boshrelease
   min_version: 3
@@ -81,13 +75,10 @@
 - url: https://github.com/cloudfoundry-incubator/consul-release
 - url: https://github.com/cloudfoundry/loggregator
   min_version: 9
-- url: https://github.com/cloudfoundry-community/bosh-cloudstack-cpi-release
-  min_version: 5
 - url: https://github.com/vito/grafana-boshrelease
 - url: https://github.com/vito/influxdb-boshrelease
 - url: https://github.com/xoebus/riemann-boshrelease
 - url: https://github.com/cloudfoundry-community/postgresbackup-boshrelease
-- url: https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release
 - url: https://github.com/pivotal-cf-experimental/cron-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/simple-remote-syslog-boshrelease
 - url: https://github.com/cppforlife/test-release
@@ -96,8 +87,6 @@
 - url: https://github.com/cloudfoundry-community/memcache-release
 - url: https://github.com/cloudfoundry-community/vault-boshrelease
 - url: https://github.com/starkandwayne/flowdock-concourse-notification-boshrelease
-- url: https://github.com/cloudfoundry-incubator/bosh-rackhd-cpi-release
-  min_version: 9
 - url: https://github.com/starkandwayne/shield-boshrelease
 - url: https://github.com/hybris/riemann-boshrelease
 - url: https://github.com/hybris/nxlog-boshrelease
@@ -121,7 +110,6 @@
 - url: https://github.com/cloudfoundry-community/bind9-boshrelease
 - url: https://github.com/cloudfoundry-community/shell-boshrelease
   min_version: 3
-- url: https://github.com/cppforlife/bosh-virtualbox-cpi-release
 - url: https://github.com/starkandwayne/bosh-errand-resource-boshrelease
 - url: https://github.com/cloudfoundry/networking-release
 - url: https://github.com/cloudfoundry/diego-release
@@ -133,8 +121,6 @@
   homepage: true
 - url: https://github.com/cloudfoundry/capi-release
 - url: https://github.com/cloudfoundry/nats-release
-- url: https://github.com/cloudfoundry-incubator/bosh-google-cpi-release
-  min_version: 24.3.0
 - url: https://github.com/cloudfoundry/postgres-release
 - url: https://github.com/cloudfoundry-community/sawmill-boshrelease
 - url: https://github.com/SAP/ipsec-release
@@ -171,19 +157,14 @@
   min_version: 8
 - url: https://github.com/dingotiles/dingo-postgresql-release
   min_version: 0.10.0
-- url: https://github.com/cppforlife/bosh-docker-cpi-release
 - url: https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry
   min_version: 202
 - url: https://github.com/cloudfoundry-community/logsearch-boshrelease
   min_version: 202
 - url: https://github.com/cppforlife/docker-release
   min_version: 0.0.2
-- url: https://github.com/cloudfoundry/bosh-softlayer-cpi-release
-  min_version: 4
 - url: https://github.com/pivotal-cf/credhub-release
   min_version: 0.6.0
-- url: https://github.com/SAP/bosh-kubernetes-cpi-release
-  min_version: 5
 - url: https://github.com/cloudfoundry-community/etcd-cf-service-broker-boshrelease
 - url: https://github.com/flavorjones/windows-ruby-dev-tools-release
   min_version: 3
@@ -196,3 +177,37 @@
 - url: https://github.com/pivotal-cf-experimental/concourse-windows-worker-release
   min_version: 3.4.0
 - url: https://github.com/minio/minio-boshrelease
+
+# CPIs
+- url: https://github.com/cloudfoundry-incubator/bosh-vsphere-cpi-release
+  cpi: true
+- url: https://github.com/cloudfoundry-incubator/bosh-aws-cpi-release
+  cpi: true
+- url: https://github.com/cloudfoundry-incubator/bosh-openstack-cpi-release
+  cpi: true
+- url: https://github.com/cloudfoundry-incubator/bosh-vcloud-cpi-release
+  cpi: true
+- url: https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release
+  cpi: true
+- url: https://github.com/cloudfoundry-incubator/bosh-google-cpi-release
+  min_version: 24.3.0
+  cpi: true
+- url: https://github.com/cloudfoundry-incubator/bosh-rackhd-cpi-release
+  min_version: 9
+  cpi: true
+- url: https://github.com/cloudfoundry/bosh-softlayer-cpi-release
+  min_version: 4
+  cpi: true
+- url: https://github.com/cloudfoundry-community/bosh-cloudstack-cpi-release
+  min_version: 5
+  cpi: true
+- url: https://github.com/cppforlife/bosh-warden-cpi-release
+  min_version: 10
+  cpi: true
+- url: https://github.com/cppforlife/bosh-docker-cpi-release
+  cpi: true
+- url: https://github.com/cppforlife/bosh-virtualbox-cpi-release
+  cpi: true
+- url: https://github.com/SAP/bosh-kubernetes-cpi-release
+  min_version: 5
+  cpi: true
