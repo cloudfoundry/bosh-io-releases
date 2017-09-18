@@ -1,0 +1,8 @@
+- name: core
+  title: BOSH Core
+- name: cpi
+  title: BOSH CPIs
+- name: cf-core
+  title: CloudFoundry Core
+- name: cf-buildpack
+  title: CloudFoundry Buildpacks
