@@ -6,3 +6,9 @@
   title: CloudFoundry Core
 - name: cf-buildpack
   title: CloudFoundry Buildpacks
+- name: ci
+  title: Continious Integration (CI)
+- name: jumpbox
+  title: Jumpbox tooling
+- name: testing
+  title: Test tooling

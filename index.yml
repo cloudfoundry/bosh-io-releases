@@ -127,10 +127,27 @@
 - url: https://github.com/cloudfoundry-incubator/hwc-buildpack-release
   categories: [cf-buildpack]
 
-# Others
+# CI
 - url: https://github.com/concourse/concourse
-  categories: [homepage]
+  categories: [ci, homepage]
   min_version: 0.11
+
+# Testing
+- url: https://github.com/cppforlife/turbulence-release
+  categories: [testing]
+- url: https://github.com/jamlo/jmeter-bosh-release
+  categories: [testing]
+- url: https://github.com/pivotal-cf-experimental/bosh-lemon-release
+  categories: [testing]
+
+# Jumpbox
+- url: https://github.com/dpb587/openvpn-bosh-release
+  categories: [jumpbox]
+- url: https://github.com/cloudfoundry-community/jumpbox-boshrelease
+  categories: [jumpbox]
+  min_version: 3
+
+# Others
 - url: https://github.com/cloudfoundry/bosh-aws-tools-release
 - url: https://github.com/cloudfoundry/cf-riak-cs-release
 - url: https://github.com/cloudfoundry-incubator/garden-linux-release
@@ -163,11 +180,8 @@
 - url: https://github.com/cloudfoundry-community/redis-consul-boshrelease
 - url: https://github.com/cloudfoundry-community/monitor-server-boshrelease
 - url: https://github.com/cloudfoundry-community/route-registrar-boshrelease
-- url: https://github.com/cloudfoundry-community/jumpbox-boshrelease
-  min_version: 3
 - url: https://github.com/cloudfoundry-community/logstash-docker-boshrelease
 - url: https://github.com/cloudfoundry-community/postgresql-docker-boshrelease
-- url: https://github.com/cppforlife/turbulence-release
 - url: https://github.com/cloudfoundry-community/slack-notification-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/tor-boshrelease
 - url: https://github.com/cloudfoundry-incubator/cf-routing-release
@@ -203,12 +217,10 @@
 - url: https://github.com/hybris/bosh-init-deployment-resource-boshrelease
   min_version: 1.1
 - url: https://github.com/cloudfoundry-community/rabbitmq-smoke-tests-boshrelease
-- url: https://github.com/pivotal-cf-experimental/bosh-lemon-release
 - url: https://github.com/cppforlife/zookeeper-release
 - url: https://github.com/cloudfoundry/cflinuxfs2-rootfs-release
 - url: https://github.com/cloudfoundry-incubator/guardian-release
 - url: https://github.com/pivotal-cf-experimental/remote-pairing-release
-- url: https://github.com/dpb587/openvpn-bosh-release
 - url: https://github.com/cloudfoundry-community/toolbelt-boshrelease
   min_version: 3.2.10
 - url: https://github.com/cloudfoundry-community/bind9-boshrelease
@@ -222,7 +234,6 @@
 - url: https://github.com/cloudfoundry-incubator/garden-windows-bosh-release
 - url: https://github.com/cloudfoundry/grootfs-release
 - url: https://github.com/cloudfoundry-community/cron-boshrelease
-- url: https://github.com/jamlo/jmeter-bosh-release
 - url: https://github.com/cloudfoundry-community/haproxy-boshrelease
   min_version: 8.0.6
 - url: https://github.com/cloudfoundry/bosh-hm-forwarder-release
