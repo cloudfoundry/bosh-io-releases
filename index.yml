@@ -1,12 +1,14 @@
 # Core
 - url: https://github.com/cloudfoundry/bosh
   categories: [core, homepage]
+  homepage: true
   min_version: 113
 - url: https://github.com/pivotal-cf/credhub-release
   categories: [core]
   min_version: 0.6.0
 - url: https://github.com/cloudfoundry/uaa-release
   categories: [core, homepage]
+  homepage: true
 - url: https://github.com/cloudfoundry/dns-release
   categories: [core]
 - url: https://github.com/cloudfoundry/config-server-release
@@ -14,9 +16,11 @@
   min_version: 0.0.1
 - url: https://github.com/cloudfoundry/os-conf-release
   categories: [core, homepage]
+  homepage: true
   min_version: 3
 - url: https://github.com/cloudfoundry/syslog-release
   categories: [core, homepage]
+  homepage: true
   min_version: 4
 - url: https://github.com/cloudfoundry/networking-release
   categories: [core]
@@ -58,11 +62,13 @@
 # CF related
 - url: https://github.com/cloudfoundry/cf-release
   categories: [cf-core, homepage]
+  homepage: true
   min_version: 191
 - url: https://github.com/cloudfoundry/cflinuxfs2-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/cf-mysql-release
   categories: [cf-core, homepage]
+  homepage: true
   min_version: 15
 - url: https://github.com/cloudfoundry/cf-syslog-drain-release
   categories: [cf-core]
@@ -80,8 +86,10 @@
   min_version: 0.333.0
 - url: https://github.com/cloudfoundry/garden-runc-release
   categories: [cf-core, homepage]
+  homepage: true
 - url: https://github.com/cloudfoundry/diego-release
   categories: [cf-core, homepage]
+  homepage: true
   min_version: 0.1440.0
 - url: https://github.com/cloudfoundry-incubator/etcd-release
   categories: [cf-core]
@@ -130,6 +138,7 @@
 # CI
 - url: https://github.com/concourse/concourse
   categories: [ci, homepage]
+  homepage: true
   min_version: 0.11
 
 # Testing
@@ -164,6 +173,7 @@
   min_version: 1
 - url: https://github.com/pivotal-cf/cf-rabbitmq-release
   categories: [homepage]
+  homepage: true
   min_version: 54
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
