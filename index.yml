@@ -24,6 +24,8 @@
   min_version: 4
 - url: https://github.com/cloudfoundry/networking-release
   categories: [core]
+- url: https://github.com/cloudfoundry-incubator/bpm-release
+  categories: [core]
 
 # CPIs
 - url: https://github.com/cloudfoundry-incubator/bosh-vsphere-cpi-release
@@ -268,4 +270,3 @@
 - url: https://github.com/pivotal-cf-experimental/concourse-windows-worker-release
   min_version: 3.4.0
 - url: https://github.com/minio/minio-boshrelease
-- url: https://github.com/cloudfoundry-incubator/bpm-release
