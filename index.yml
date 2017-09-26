@@ -75,7 +75,7 @@
 - url: https://github.com/cloudfoundry/cf-syslog-drain-release
   categories: [cf-core]
   min_version: 2
-- url: https://github.com/cloudfoundry-incubator/cf-networking-release
+- url: https://github.com/cloudfoundry/cf-networking-release
   categories: [cf-core]
   min_version: 0.14.0
 - url: https://github.com/cloudfoundry-incubator/consul-release
