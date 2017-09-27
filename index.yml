@@ -9,7 +9,7 @@
 - url: https://github.com/cloudfoundry/uaa-release
   categories: [core, homepage]
   homepage: true
-- url: https://github.com/cloudfoundry/dns-release
+- url: https://github.com/cloudfoundry/bosh-dns-release
   categories: [core]
 - url: https://github.com/cloudfoundry/config-server-release
   categories: [core]
