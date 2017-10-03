@@ -250,8 +250,6 @@
   min_version: 8.0.6
 - url: https://github.com/cloudfoundry/bosh-hm-forwarder-release
   min_version: 1.0.11
-- url: https://github.com/dingotiles/dingo-postgresql-release
-  min_version: 0.10.0
 - url: https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry
   min_version: 202
 - url: https://github.com/cloudfoundry-community/logsearch-boshrelease
