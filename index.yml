@@ -142,6 +142,9 @@
   categories: [ci, homepage]
   homepage: true
   min_version: 0.11
+- url: https://github.com/pivotal-cf-experimental/concourse-windows-worker-release
+  categories: [ci]
+  min_version: 3.3.3
 
 # Testing
 - url: https://github.com/cppforlife/turbulence-release
