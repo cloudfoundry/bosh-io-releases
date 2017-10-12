@@ -181,6 +181,9 @@
   categories: [homepage]
   homepage: true
   min_version: 54
+- url: https://github.com/pivotal-cf/cf-rabbitmq-multitenant-broker-release
+  categories: [homepage]
+  homepage: true
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
 - url: https://github.com/pivotal-cf/cf-redis-release
