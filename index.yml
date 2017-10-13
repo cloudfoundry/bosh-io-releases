@@ -19,8 +19,7 @@
   homepage: true
   min_version: 3
 - url: https://github.com/cloudfoundry-incubator/windows-utilities-release
-  categories: [core, homepage]
-  homepage: true
+  categories: [core]
   min_version: 0.3.0
 - url: https://github.com/cloudfoundry/syslog-release
   categories: [core, homepage]
@@ -182,8 +181,7 @@
   homepage: true
   min_version: 54
 - url: https://github.com/pivotal-cf/cf-rabbitmq-multitenant-broker-release
-  categories: [homepage]
-  homepage: true
+  min_version: 6
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
 - url: https://github.com/pivotal-cf/cf-redis-release
