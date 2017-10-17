@@ -85,9 +85,9 @@
   min_version: 1.8.0
 - url: https://github.com/cloudfoundry-incubator/consul-release
   categories: [cf-core]
-- url: https://github.com/cloudfoundry/loggregator
+- url: https://github.com/cloudfoundry/loggregator-release
   categories: [cf-core]
-  min_version: 9
+  min_version: 99
 - url: https://github.com/cloudfoundry/garden-linux-release
   categories: [cf-core]
   min_version: 0.333.0
