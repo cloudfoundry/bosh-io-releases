@@ -118,8 +118,7 @@
   categories: [cf-core]
   min_version: 0.0.11
 - url: https://github.com/cloudfoundry-incubator/bits-service-release
-  categories: [cf-core, homepage]
-  homepage: true
+  categories: [cf-core]
 
 # CF buildpacks
 - url: https://github.com/cloudfoundry/staticfile-buildpack-release
