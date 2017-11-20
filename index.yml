@@ -284,3 +284,4 @@
   min_version: 6
 - url: https://github.com/cloudfoundry/bosh-dns-aliases-release
 - url: https://github.com/cloudfoundry-community/gogs-boshrelease
+- url: https://github.com/cloudfoundry-community/kafka-boshrelease
