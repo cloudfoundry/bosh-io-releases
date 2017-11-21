@@ -88,6 +88,9 @@
 - url: https://github.com/cloudfoundry/loggregator-release
   categories: [cf-core]
   min_version: 99
+- url: https://github.com/cloudfoundry/loggregator-legacy-release
+  categories: [cf-core]
+  min_version: 99
 - url: https://github.com/cloudfoundry/garden-linux-release
   categories: [cf-core]
   min_version: 0.333.0
