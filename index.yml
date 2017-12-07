@@ -291,3 +291,5 @@
 - url: https://github.com/cloudfoundry-community/kafka-boshrelease
 - url: https://github.com/cloudfoundry-community/sample-python-flask-app-boshrelease
 - url: https://github.com/cloudfoundry-incubator/kubo-release
+- url: https://github.com/cloudfoundry-incubator/service-fabrik-boshrelease
+- url: https://github.com/cloudfoundry-incubator/service-fabrik-blueprint-boshrelease
