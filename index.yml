@@ -60,6 +60,8 @@
   categories: [cpi]
 - url: https://github.com/cppforlife/bosh-virtualbox-cpi-release
   categories: [cpi]
+- url: https://github.com/cloudfoundry-incubator/bosh-alicloud-cpi-release
+  categories: [cpi]
 - url: https://github.com/SAP/bosh-kubernetes-cpi-release
   categories: [cpi]
   min_version: 5
