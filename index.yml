@@ -186,6 +186,8 @@
 - url: https://github.com/cf-platform-eng/hadoop-boshrelease
 - url: https://github.com/logsearch/logsearch-shipper-boshrelease
 - url: https://github.com/cloudfoundry-community/redis-boshrelease
+- url: https://github.com/cloudfoundry-community/nginx-release
+  min_version: 1.12.2
 - url: https://github.com/cloudfoundry-incubator/winc-release
 - url: https://github.com/cloudfoundry-incubator/backup-and-restore-sdk-release
   min_version: 1
