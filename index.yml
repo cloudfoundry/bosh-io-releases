@@ -68,8 +68,7 @@
 
 # CF related
 - url: https://github.com/cloudfoundry/cf-release
-  categories: [cf-core, homepage]
-  homepage: true
+  categories: [cf-core]
   min_version: 191
 - url: https://github.com/cloudfoundry/cflinuxfs2-release
   categories: [cf-core]
