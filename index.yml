@@ -125,7 +125,7 @@
   min_version: 0.2.0
 - url: https://github.com/cloudfoundry/silk-release
   categories: [cf-core]
-  min_version: 2.0.0
+  min_version: 0.1.0
 
 # CF buildpacks
 - url: https://github.com/cloudfoundry/staticfile-buildpack-release
