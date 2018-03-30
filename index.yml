@@ -310,3 +310,7 @@
 - url: https://github.com/cloudfoundry-incubator/windows-tools-release
 - url: https://github.com/dynatrace-innovationlab/bosh-oneagent-release
   min_version: 0.3.4
+- url: https://github.com/cloudfoundry/log-cache-release
+  min_version: 0
+- url: https://github.com/cloudfoundry/loggregator-agent-release
+  min_version: 1.0
