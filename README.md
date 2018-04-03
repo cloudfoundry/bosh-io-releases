@@ -9,4 +9,4 @@ Checklist for submission:
 - LICENSE and NOTICE files are up to date
 - at least one final release is checked in on default repo branch
 - [optional] Github repo has a descriptive project title
-- [optinoal] manifests/ directory contains example manifest
+- [optional] manifests/ directory contains example manifest
