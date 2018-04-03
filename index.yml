@@ -25,6 +25,8 @@
   categories: [core, homepage]
   homepage: true
   min_version: 4
+- url: https://github.com/cloudfoundry/windows-syslog-release
+  categories: [core]
 - url: https://github.com/cloudfoundry/networking-release
   categories: [core]
 - url: https://github.com/cloudfoundry-incubator/bpm-release
