@@ -1,21 +1,21 @@
+- repo_url: https://github.com/bosh-packages
+  url: https://avatars2.githubusercontent.com/u/31545432?s=40&v=4
+- repo_url: https://github.com/cf-platform-eng
+  url: https://avatars1.githubusercontent.com/u/6455635?s=40&v=4
 - repo_url: https://github.com/cloudfoundry
-  url: https://avatars3.githubusercontent.com/u/621746?v=3&s=40
-- repo_url: https://github.com/cloudfoundry-incubator
   url: https://avatars3.githubusercontent.com/u/621746?v=3&s=40
 - repo_url: https://github.com/cloudfoundry-community
   url: https://avatars1.githubusercontent.com/u/4378855?v=4&s=40
-- repo_url: https://github.com/bosh-packages
-  url: https://avatars2.githubusercontent.com/u/31545432?s=40&v=4
-- repo_url: https://github.com/DataDog
-  url: https://avatars0.githubusercontent.com/u/365230?s=40&v=4
-- repo_url: https://github.com/SAP
-  url: https://avatars3.githubusercontent.com/u/2531208?s=40&v=4
-- repo_url: https://github.com/cf-platform-eng
-  url: https://avatars1.githubusercontent.com/u/6455635?s=40&v=4
+- repo_url: https://github.com/cloudfoundry-incubator
+  url: https://avatars3.githubusercontent.com/u/621746?v=3&s=40
 - repo_url: https://github.com/compozed
   url: https://avatars1.githubusercontent.com/u/12916770?s=40&v=4
+- repo_url: https://github.com/concourse
+  url: https://avatars1.githubusercontent.com/u/7809479?v=3&s=40
 - repo_url: https://github.com/cppforlife
   url: https://avatars3.githubusercontent.com/u/185847?s=40&v=4
+- repo_url: https://github.com/DataDog
+  url: https://avatars0.githubusercontent.com/u/365230?s=40&v=4
 - repo_url: https://github.com/dpb587
   url: https://avatars3.githubusercontent.com/u/207601?s=40&v=4
 - repo_url: https://github.com/dynatrace-innovationlab
@@ -32,17 +32,17 @@
   url: https://avatars0.githubusercontent.com/u/6453174?s=40&v=4
 - repo_url: https://github.com/minio
   url: https://avatars0.githubusercontent.com/u/695951?s=40&v=4
+- repo_url: https://github.com/pivotal-cf
+  url: https://avatars0.githubusercontent.com/u/5497370?v=3&s=40
 - repo_url: https://github.com/pivotal-cf-experimental
   url: https://avatars0.githubusercontent.com/u/5914274?s=40&v=4
 - repo_url: https://github.com/rakutentech
   url: https://avatars3.githubusercontent.com/u/1415441?s=40&v=4
-- repo_url: https://github.com/pivotal-cf
-  url: https://avatars0.githubusercontent.com/u/5497370?v=3&s=40
-- repo_url: https://github.com/concourse
-  url: https://avatars1.githubusercontent.com/u/7809479?v=3&s=40
+- repo_url: https://github.com/SAP
+  url: https://avatars3.githubusercontent.com/u/2531208?s=40&v=4
+- repo_url: https://github.com/starkandwayne
+  url: https://avatars1.githubusercontent.com/u/2721362?v=4&s=40
 - repo_url: https://github.com/vito
   url: https://avatars0.githubusercontent.com/u/1880?v=3&s=40
 - repo_url: https://github.com/xoebus
   url: https://avatars0.githubusercontent.com/u/38814?v=3&s=40
-- repo_url: https://github.com/starkandwayne
-  url: https://avatars1.githubusercontent.com/u/2721362?v=4&s=40
