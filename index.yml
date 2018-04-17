@@ -313,8 +313,8 @@
 - url: https://github.com/cloudfoundry-incubator/service-fabrik-blueprint-boshrelease
   min_version: 1.5.0
 - url: https://github.com/cloudfoundry-incubator/windows-tools-release
-- url: https://github.com/dynatrace-innovationlab/bosh-oneagent-release
-  min_version: 0.3.4
+- url: https://github.com/dynatrace/bosh-oneagent-release
+  min_version: 0.5.1
 - url: https://github.com/cloudfoundry/log-cache-release
   min_version: 0
 - url: https://github.com/cloudfoundry/loggregator-agent-release
