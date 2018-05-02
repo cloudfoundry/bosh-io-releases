@@ -319,6 +319,6 @@
 - url: https://github.com/Dynatrace/bosh-oneagent-release
   min_version: 1.0.2
 - url: https://github.com/cloudfoundry/log-cache-release
-  min_version: 0
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry/loggregator-agent-release
   min_version: 1.0
