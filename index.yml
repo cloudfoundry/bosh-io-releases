@@ -322,3 +322,5 @@
   min_version: 0
 - url: https://github.com/cloudfoundry/loggregator-agent-release
   min_version: 1.0
+- url: https://github.com/martyca/minecraft-boshrelease
+  min_version: 1.0.0
