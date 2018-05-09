@@ -286,7 +286,7 @@
 - url: https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry
   min_version: 202
 - url: https://github.com/cloudfoundry-community/logsearch-boshrelease
-  min_version: 202
+  min_version: 203
 - url: https://github.com/cppforlife/docker-release
   min_version: 0.0.2
 - url: https://github.com/cloudfoundry-community/etcd-cf-service-broker-boshrelease
