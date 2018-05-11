@@ -111,6 +111,9 @@
 - url: https://github.com/cloudfoundry/smb-volume-release
   categories: [cf-core]
   min_version: 0.1.5
+- url: https://github.com/cloudfoundry/mapfs-release
+  categories: [cf-core]
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry/capi-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/nats-release
