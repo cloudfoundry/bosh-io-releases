@@ -93,6 +93,10 @@
 - url: https://github.com/cloudfoundry/loggregator-release
   categories: [cf-core]
   min_version: 99
+- url: https://github.com/cloudfoundry/bosh-system-metrics-server-release
+  categories: [cf-core]
+- url: https://github.com/cloudfoundry/bosh-system-metrics-forwarder-release
+  categories: [cf-core]
 - url: https://github.com/cloudfoundry/garden-linux-release
   categories: [cf-core]
   min_version: 0.333.0
