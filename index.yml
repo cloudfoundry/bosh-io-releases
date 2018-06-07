@@ -93,6 +93,10 @@
 - url: https://github.com/cloudfoundry/loggregator-release
   categories: [cf-core]
   min_version: 99
+- url: https://github.com/cloudfoundry/bosh-system-metrics-server-release
+  categories: [cf-core]
+- url: https://github.com/cloudfoundry/bosh-system-metrics-forwarder-release
+  categories: [cf-core]
 - url: https://github.com/cloudfoundry/garden-linux-release
   categories: [cf-core]
   min_version: 0.333.0
@@ -111,6 +115,9 @@
 - url: https://github.com/cloudfoundry/smb-volume-release
   categories: [cf-core]
   min_version: 0.1.5
+- url: https://github.com/cloudfoundry/mapfs-release
+  categories: [cf-core]
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry/capi-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/nats-release
@@ -317,12 +324,15 @@
   min_version: 1.5.0
 - url: https://github.com/cloudfoundry-incubator/windows-tools-release
 - url: https://github.com/Dynatrace/bosh-oneagent-release
-  min_version: 1.0.2
+  min_version: 1.0.3
 - url: https://github.com/cloudfoundry/log-cache-release
   min_version: 0
 - url: https://github.com/cloudfoundry/loggregator-agent-release
   min_version: 1.0
 - url: https://github.com/martyca/minecraft-boshrelease
   min_version: 1.0.0
+- url: https://github.com/cloudfoundry-incubator/mysql-backup-release
+- url: https://github.com/cloudfoundry-incubator/mysql-monitoring-release
 - url: https://github.com/vmware/harbor-boshrelease
   min_version: 1.5.0
+
