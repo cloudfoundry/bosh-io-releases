@@ -333,3 +333,5 @@
   min_version: 1.0.0
 - url: https://github.com/cloudfoundry-incubator/mysql-backup-release
 - url: https://github.com/cloudfoundry-incubator/mysql-monitoring-release
+- url: https://github.com/cloudfoundry/service-metrics-release
+  min_version: 1.6.0
