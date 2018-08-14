@@ -74,6 +74,8 @@
   min_version: 191
 - url: https://github.com/cloudfoundry/cflinuxfs2-release
   categories: [cf-core]
+- url: https://github.com/cloudfoundry/cflinuxfs3-release
+  categories: [cf-core]
 - url: https://github.com/cloudfoundry-incubator/windows2016fs-online-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/cf-mysql-release
