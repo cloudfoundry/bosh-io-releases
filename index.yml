@@ -171,9 +171,12 @@
   categories: [cf-buildpack]
 
 # CI
-- url: https://github.com/concourse/concourse
+- url: https://github.com/concourse/concourse-bosh-release
   categories: [ci, homepage]
   homepage: true
+  min_version: 0.11
+- url: https://github.com/concourse/concourse
+  categories: [ci]
   min_version: 0.11
 
 # Testing
