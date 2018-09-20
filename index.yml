@@ -171,7 +171,7 @@
 - url: https://github.com/concourse/concourse-bosh-release
   categories: [ci, homepage]
   homepage: true
-  min_version: 0.11
+  min_version: 2.0.0
 - url: https://github.com/concourse/concourse
   categories: [ci]
   min_version: 0.11
