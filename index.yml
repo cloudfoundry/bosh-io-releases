@@ -33,6 +33,17 @@
   categories: [core]
 
 # CPIs
+- url: https://github.com/cloudfoundry/bosh-vsphere-cpi-release
+  categories: [cpi]
+- url: https://github.com/cloudfoundry/bosh-aws-cpi-release
+  categories: [cpi]
+- url: https://github.com/cloudfoundry/bosh-openstack-cpi-release
+  categories: [cpi]
+- url: https://github.com/cloudfoundry/bosh-azure-cpi-release
+  categories: [cpi]
+- url: https://github.com/cloudfoundry/bosh-google-cpi-release
+  categories: [cpi]
+  min_version: 24.3.0
 - url: https://github.com/cloudfoundry-incubator/bosh-vsphere-cpi-release
   categories: [cpi]
 - url: https://github.com/cloudfoundry-incubator/bosh-aws-cpi-release
