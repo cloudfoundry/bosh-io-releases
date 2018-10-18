@@ -205,6 +205,9 @@
 # Service brokers
 - url: https://github.com/cloudfoundry-community/kafka-service-broker-boshrelease
   categories: [servicebroker]
+- url: https://github.com/icclab/ceph-objectstore-broker-boshrelease
+  categories: [servicebroker, homepage]
+  homepage: true
 
 # Others
 - url: https://github.com/cloudfoundry/bosh-aws-tools-release
