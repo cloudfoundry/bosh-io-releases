@@ -89,6 +89,8 @@
   categories: [cf-core]
 - url: https://github.com/cloudfoundry-incubator/windows2016fs-online-release
   categories: [cf-core]
+- url: https://github.com/cloudfoundry/windows1803fs-online-release
+  categories: [cf-core]
 - url: https://github.com/cloudfoundry/cf-mysql-release
   categories: [cf-core, homepage]
   homepage: true
