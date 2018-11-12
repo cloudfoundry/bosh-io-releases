@@ -342,5 +342,6 @@
 - url: https://github.com/vmware/harbor-boshrelease
   min_version: 1.5.0
 - url: https://github.com/cloudfoundry-incubator/cfcr-etcd-release
+  min_version: 1.6.0
 - url: https://github.com/cloudfoundry-incubator/app-autoscaler-release
   min_version: 1.0.0
