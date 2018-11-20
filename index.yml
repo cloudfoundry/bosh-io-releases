@@ -80,6 +80,9 @@
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/windows1803fs-online-release
   categories: [cf-core]
+- url: https://github.com/cloudfoundry/envoy-release
+  categories: [cf-core]
+  min_version: 0.1.0
 - url: https://github.com/cloudfoundry/cf-mysql-release
   categories: [cf-core, homepage]
   homepage: true
