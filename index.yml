@@ -223,6 +223,8 @@
   min_version: 54
 - url: https://github.com/pivotal-cf/cf-rabbitmq-multitenant-broker-release
   min_version: 6
+- url: https://github.com/pivotal-cf/cf-rabbitmq-smoke-tests-release
+  min_version: 20.0.0
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
 - url: https://github.com/pivotal-cf/cf-redis-release
