@@ -287,6 +287,7 @@
 - url: https://github.com/starkandwayne/bosh-errand-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/sawmill-boshrelease
 - url: https://github.com/SAP/ipsec-release
+  min_version: 3
 - url: https://github.com/cloudfoundry-community/prometheus-boshrelease
 - url: https://github.com/cloudfoundry-community/node-exporter-boshrelease
 - url: https://github.com/frodenas/dex-boshrelease
