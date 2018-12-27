@@ -159,6 +159,8 @@
   categories: [cf-buildpack]
 - url: https://github.com/cloudfoundry/php-buildpack-release
   categories: [cf-buildpack]
+- url: https://github.com/cloudfoundry/nginx-buildpack-release
+  categories: [cf-buildpack]
 - url: https://github.com/cloudfoundry/nodejs-buildpack-release
   categories: [cf-buildpack]
 - url: https://github.com/cloudfoundry/binary-buildpack-release
