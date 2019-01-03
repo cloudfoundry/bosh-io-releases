@@ -171,6 +171,8 @@
   categories: [cf-buildpack]
 - url: https://github.com/cloudfoundry/dotnet-core-buildpack-release
   categories: [cf-buildpack]
+- url: https://github.com/cloudfoundry/r-buildpack-release
+  categories: [cf-buildpack]
 - url: https://github.com/cloudfoundry-incubator/hwc-buildpack-release
   categories: [cf-buildpack]
 
