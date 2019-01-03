@@ -207,7 +207,7 @@
 - url: https://github.com/cloudfoundry/cf-riak-cs-release
 - url: https://github.com/cloudfoundry-incubator/garden-linux-release
   min_version: 0.22
-- url: https://github.com/cf-platform-eng/docker-boshrelease
+- url: https://github.com/cloudfoundry-incubator/docker-boshrelease
 - url: https://github.com/cf-platform-eng/mesos-boshrelease
 - url: https://github.com/cf-platform-eng/shipyard-boshrelease
 - url: https://github.com/cf-platform-eng/couchdb-boshrelease
