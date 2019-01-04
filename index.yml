@@ -210,6 +210,7 @@
 - url: https://github.com/cloudfoundry-incubator/garden-linux-release
   min_version: 0.22
 - url: https://github.com/cloudfoundry-incubator/docker-boshrelease
+  min_version: 32.1.0
 - url: https://github.com/cf-platform-eng/mesos-boshrelease
 - url: https://github.com/cf-platform-eng/shipyard-boshrelease
 - url: https://github.com/cf-platform-eng/couchdb-boshrelease
