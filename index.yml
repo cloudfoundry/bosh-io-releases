@@ -324,6 +324,7 @@
   min_version: 3.4.0
 - url: https://github.com/minio/minio-boshrelease
 - url: https://github.com/cloudfoundry-community/collectd-boshrelease
+  min_version: 2.1.0
 - url: https://github.com/starkandwayne/softhsm-boshrelease
 - url: https://github.com/cloudfoundry-community/mattermost-boshrelease
   min_version: 6
