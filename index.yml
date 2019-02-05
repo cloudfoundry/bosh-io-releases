@@ -260,10 +260,8 @@
   min_version: 1.0.5140
 - url: https://github.com/cloudfoundry-community/xip-release
 - url: https://github.com/cloudfoundry-community/cf-subway-boshrelease
-- url: https://github.com/compozed/elasticsearch-plugins-boshrelease
 - url: https://github.com/rakutentech/postgres-backup-boshrelease
   min_version: 3
-- url: https://github.com/compozed/nfs-boshrelease
 - url: https://github.com/vito/grafana-boshrelease
 - url: https://github.com/vito/influxdb-boshrelease
 - url: https://github.com/xoebus/riemann-boshrelease
@@ -271,7 +269,6 @@
 - url: https://github.com/pivotal-cf-experimental/cron-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/simple-remote-syslog-boshrelease
 - url: https://github.com/cppforlife/test-release
-- url: https://github.com/compozed/docker-registry-boshrelease
 - url: https://github.com/cloudfoundry-community/broker-registrar-boshrelease
 - url: https://github.com/cloudfoundry-community/memcache-release
 - url: https://github.com/cloudfoundry-community/vault-boshrelease
