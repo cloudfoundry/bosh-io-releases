@@ -356,4 +356,6 @@
 - url: https://github.com/cloudfoundry-incubator/cfcr-etcd-release
 - url: https://github.com/cloudfoundry-incubator/app-autoscaler-release
   min_version: 1.0.0
+- url: https://github.com/cloudfoundry/leadership-election-release
+  min_version: 1.0
 - url: https://github.com/grapeup/filesystem-bbr-boshrelease
