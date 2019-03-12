@@ -101,7 +101,7 @@
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/loggregator-release
   categories: [cf-core]
-  min_version: 99
+  min_version: 100
 - url: https://github.com/cloudfoundry/bosh-system-metrics-server-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/bosh-system-metrics-forwarder-release
