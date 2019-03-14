@@ -252,6 +252,7 @@
 - url: https://github.com/cloudfoundry-community/slack-notification-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/tor-boshrelease
 - url: https://github.com/cloudfoundry-incubator/cf-routing-release
+- url: https://github.com/cloudfoundry/istio-release
 - url: https://github.com/cloudfoundry-incubator/diego-docker-cache-release
 - url: https://github.com/cloudfoundry-community/git-server-release
   min_version: 3
