@@ -269,7 +269,6 @@
 - url: https://github.com/vito/grafana-boshrelease
 - url: https://github.com/vito/influxdb-boshrelease
 - url: https://github.com/xoebus/riemann-boshrelease
-- url: https://github.com/cloudfoundry-community/postgresbackup-boshrelease
 - url: https://github.com/pivotal-cf-experimental/cron-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/simple-remote-syslog-boshrelease
 - url: https://github.com/cppforlife/test-release
@@ -278,6 +277,7 @@
 - url: https://github.com/cloudfoundry-community/vault-boshrelease
 - url: https://github.com/starkandwayne/flowdock-concourse-notification-boshrelease
 - url: https://github.com/starkandwayne/shield-boshrelease
+  min_version: 6.4.1
 - url: https://github.com/hybris/riemann-boshrelease
 - url: https://github.com/hybris/nxlog-boshrelease
 - url: https://github.com/hybris/bosh-init-deployment-resource-boshrelease
