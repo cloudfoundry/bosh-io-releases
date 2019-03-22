@@ -219,7 +219,6 @@
 - url: https://github.com/cf-platform-eng/shipyard-boshrelease
 - url: https://github.com/cf-platform-eng/couchdb-boshrelease
 - url: https://github.com/cf-platform-eng/hadoop-boshrelease
-- url: https://github.com/logsearch/logsearch-shipper-boshrelease
 - url: https://github.com/cloudfoundry-community/redis-boshrelease
 - url: https://github.com/cloudfoundry-community/nginx-release
   min_version: 1.12.2
@@ -346,8 +345,6 @@
   min_version: 0
 - url: https://github.com/cloudfoundry/loggregator-agent-release
   min_version: 1.0
-- url: https://github.com/martyca/minecraft-boshrelease
-  min_version: 1.0.0
 - url: https://github.com/cloudfoundry-incubator/mysql-backup-release
 - url: https://github.com/cloudfoundry-incubator/mysql-monitoring-release
 - url: https://github.com/dpb587/caddy-bosh-release
