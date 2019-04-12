@@ -185,9 +185,6 @@
   categories: [ci, homepage]
   homepage: true
   min_version: 2.0.0
-- url: https://github.com/concourse/concourse
-  categories: [ci]
-  min_version: 0.11
 
 # Testing
 - url: https://github.com/cppforlife/turbulence-release
