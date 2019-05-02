@@ -29,7 +29,7 @@
   categories: [core]
 - url: https://github.com/cloudfoundry/networking-release
   categories: [core]
-- url: https://github.com/cloudfoundry-incubator/bpm-release
+- url: https://github.com/cloudfoundry/bpm-release
   categories: [core]
 
 # CPIs
