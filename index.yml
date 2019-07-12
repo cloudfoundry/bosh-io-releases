@@ -84,6 +84,8 @@
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/windowsfs-online-release
   categories: [cf-core]
+- url: https://github.com/cloudfoundry-incubator/envoy-nginx-release
+  categories: [cf-core]
 - url: https://github.com/cloudfoundry/envoy-release
   categories: [cf-core]
   min_version: 0.1.0
