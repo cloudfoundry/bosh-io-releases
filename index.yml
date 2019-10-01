@@ -109,6 +109,9 @@
 - url: https://github.com/cloudfoundry/metrics-discovery-release
   categories: [cf-core]
   min_version: 1.0.0
+- url: https://github.com/cloudfoundry/system-metrics-release
+  categories: [cf-core]
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry/bosh-system-metrics-server-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/bosh-system-metrics-forwarder-release
