@@ -370,3 +370,6 @@
 - url: https://github.com/cloudfoundry/service-logs-release
   min_version: 1.0
 - url: https://github.com/pivotal-cf/telemetry-release
+- url: https://github.com/orange-cloudfoundry/generic-scripting-release
+  min-version: 3
+
