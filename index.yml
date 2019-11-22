@@ -246,8 +246,8 @@
   min_version: 20.0.0
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
-- url: https://github.com/pivotal-cf/cf-redis-release
-  min_version: 266
+- url: https://github.com/pivotal-cf/shared-redis-release
+  min_version: 435.0.0
 - url: https://github.com/cloudfoundry-community/consul-boshrelease
   min_version: 10
 - url: https://github.com/cloudfoundry-community/docker-registry-boshrelease
