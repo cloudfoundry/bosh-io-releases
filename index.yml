@@ -280,7 +280,6 @@
   min_version: 3
 - url: https://github.com/vito/grafana-boshrelease
 - url: https://github.com/vito/influxdb-boshrelease
-- url: https://github.com/xoebus/riemann-boshrelease
 - url: https://github.com/cloudfoundry-community/simple-remote-syslog-boshrelease
 - url: https://github.com/cppforlife/test-release
 - url: https://github.com/cloudfoundry-community/broker-registrar-boshrelease
