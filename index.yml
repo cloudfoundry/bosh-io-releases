@@ -373,3 +373,5 @@
 - url: https://github.com/cloudfoundry/service-logs-release
   min_version: 1.0
 - url: https://github.com/pivotal-cf/telemetry-release
+- url: https://github.com/dohq/terraboard-boshrelease
+  min_version: 1.0.0
