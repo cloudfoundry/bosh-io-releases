@@ -373,3 +373,15 @@
 - url: https://github.com/cloudfoundry/service-logs-release
   min_version: 1.0
 - url: https://github.com/pivotal-cf/telemetry-release
+
+# By Government, for Government
+- url: https://github.com/18F/cg-nessus-manager-boshrelease
+  categories: [gov, security]
+- url: https://github.com/18F/cg-nessus-agent-boshrelease
+  categories: [gov, security]
+- url: https://github.com/18F/cg-harden-boshrelease
+  categories: [gov, security]
+- url: https://github.com/18F/cg-awslogs-boshrelease
+  categories: [logs, aws]
+- url: https://github.com/18F/cg-snort-boshrelease
+  categories: [gov, security]
