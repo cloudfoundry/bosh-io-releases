@@ -29,7 +29,7 @@
   categories: [core]
 - url: https://github.com/cloudfoundry/networking-release
   categories: [core]
-- url: https://github.com/cloudfoundry-incubator/bpm-release
+- url: https://github.com/cloudfoundry/bpm-release
   categories: [core]
 
 # CPIs
@@ -62,11 +62,13 @@
   categories: [cpi]
 - url: https://github.com/cppforlife/bosh-virtualbox-cpi-release
   categories: [cpi]
-- url: https://github.com/cloudfoundry-incubator/bosh-alicloud-cpi-release
-  categories: [cpi]
 - url: https://github.com/SAP/bosh-kubernetes-cpi-release
   categories: [cpi]
   min_version: 5
+# This release uses a local blobstore, which means that the releases are not
+# able to be created.
+# - url: https://github.com/cloudfoundry-incubator/bosh-alicloud-cpi-release
+#   categories: [cpi]
 
 # CF related
 - url: https://github.com/cloudfoundry/cf-release
@@ -81,6 +83,8 @@
 - url: https://github.com/cloudfoundry/windows1803fs-online-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/windowsfs-online-release
+  categories: [cf-core]
+- url: https://github.com/cloudfoundry-incubator/envoy-nginx-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/envoy-release
   categories: [cf-core]
@@ -101,7 +105,16 @@
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/loggregator-release
   categories: [cf-core]
-  min_version: 99
+  min_version: 100
+- url: https://github.com/cloudfoundry/metrics-discovery-release
+  categories: [cf-core]
+  min_version: 1.0.0
+- url: https://github.com/cloudfoundry/system-metrics-scraper-release
+  categories: [cf-core]
+  min_version: 2.0.0
+- url: https://github.com/cloudfoundry/system-metrics-release
+  categories: [cf-core]
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry/bosh-system-metrics-server-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/bosh-system-metrics-forwarder-release
@@ -149,6 +162,9 @@
 - url: https://github.com/bosh-packages/cf-cli-release
   categories: [cf-core]
   min_version: 1.3.0
+- url: https://github.com/cloudfoundry-community/eirini-bosh-release
+  categories: [cf-core]
+  min_version: 0.0.3
 
 # CF buildpacks
 - url: https://github.com/cloudfoundry/staticfile-buildpack-release
@@ -183,9 +199,6 @@
   categories: [ci, homepage]
   homepage: true
   min_version: 2.0.0
-- url: https://github.com/concourse/concourse
-  categories: [ci]
-  min_version: 0.11
 
 # Testing
 - url: https://github.com/cppforlife/turbulence-release
@@ -217,7 +230,6 @@
 - url: https://github.com/cf-platform-eng/shipyard-boshrelease
 - url: https://github.com/cf-platform-eng/couchdb-boshrelease
 - url: https://github.com/cf-platform-eng/hadoop-boshrelease
-- url: https://github.com/logsearch/logsearch-shipper-boshrelease
 - url: https://github.com/cloudfoundry-community/redis-boshrelease
 - url: https://github.com/cloudfoundry-community/nginx-release
   min_version: 1.12.2
@@ -234,8 +246,8 @@
   min_version: 20.0.0
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
-- url: https://github.com/pivotal-cf/cf-redis-release
-  min_version: 266
+- url: https://github.com/pivotal-cf/shared-redis-release
+  min_version: 435.0.0
 - url: https://github.com/cloudfoundry-community/consul-boshrelease
   min_version: 10
 - url: https://github.com/cloudfoundry-community/docker-registry-boshrelease
@@ -251,7 +263,9 @@
 - url: https://github.com/cloudfoundry-community/postgresql-docker-boshrelease
 - url: https://github.com/cloudfoundry-community/slack-notification-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/tor-boshrelease
-- url: https://github.com/cloudfoundry-incubator/cf-routing-release
+- url: https://github.com/cloudfoundry/routing-release
+  min_version: 0.187.0
+- url: https://github.com/cloudfoundry/istio-release
 - url: https://github.com/cloudfoundry-incubator/diego-docker-cache-release
 - url: https://github.com/cloudfoundry-community/git-server-release
   min_version: 3
@@ -266,9 +280,6 @@
   min_version: 3
 - url: https://github.com/vito/grafana-boshrelease
 - url: https://github.com/vito/influxdb-boshrelease
-- url: https://github.com/xoebus/riemann-boshrelease
-- url: https://github.com/cloudfoundry-community/postgresbackup-boshrelease
-- url: https://github.com/pivotal-cf-experimental/cron-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/simple-remote-syslog-boshrelease
 - url: https://github.com/cppforlife/test-release
 - url: https://github.com/cloudfoundry-community/broker-registrar-boshrelease
@@ -276,6 +287,7 @@
 - url: https://github.com/cloudfoundry-community/vault-boshrelease
 - url: https://github.com/starkandwayne/flowdock-concourse-notification-boshrelease
 - url: https://github.com/starkandwayne/shield-boshrelease
+  min_version: 6.4.1
 - url: https://github.com/hybris/riemann-boshrelease
 - url: https://github.com/hybris/nxlog-boshrelease
 - url: https://github.com/hybris/bosh-init-deployment-resource-boshrelease
@@ -342,10 +354,10 @@
   min_version: 1.0.3
 - url: https://github.com/cloudfoundry/log-cache-release
   min_version: 0
+- url: https://github.com/cloudfoundry/metric-store-release
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry/loggregator-agent-release
   min_version: 1.0
-- url: https://github.com/martyca/minecraft-boshrelease
-  min_version: 1.0.0
 - url: https://github.com/cloudfoundry-incubator/mysql-backup-release
 - url: https://github.com/cloudfoundry-incubator/mysql-monitoring-release
 - url: https://github.com/dpb587/caddy-bosh-release
@@ -358,4 +370,14 @@
   min_version: 1.0.0
 - url: https://github.com/cloudfoundry/leadership-election-release
   min_version: 1.0
+- url: https://github.com/cloudfoundry/service-logs-release
+  min_version: 1.0
+- url: https://github.com/pivotal-cf/telemetry-release
+- url: https://github.com/cloudfoundry-incubator/notifications-release
+  min_version: 2.0
+- url: https://github.com/cloudfoundry-incubator/event-log-release.git
+- url: https://github.com/dohq/terraboard-boshrelease
+  min_version: 1.0.0
+- url: https://github.com/orange-cloudfoundry/generic-scripting-release
+  min-version: 3
 - url: https://github.com/grapeup/filesystem-bbr-boshrelease
