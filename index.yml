@@ -109,6 +109,9 @@
 - url: https://github.com/cloudfoundry/metrics-discovery-release
   categories: [cf-core]
   min_version: 1.0.0
+- url: https://github.com/cloudfoundry/system-metrics-scraper-release
+  categories: [cf-core]
+  min_version: 2.0.0
 - url: https://github.com/cloudfoundry/system-metrics-release
   categories: [cf-core]
   min_version: 1.0.0
@@ -243,8 +246,8 @@
   min_version: 20.0.0
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
-- url: https://github.com/pivotal-cf/cf-redis-release
-  min_version: 266
+- url: https://github.com/pivotal-cf/shared-redis-release
+  min_version: 435.0.0
 - url: https://github.com/cloudfoundry-community/consul-boshrelease
   min_version: 10
 - url: https://github.com/cloudfoundry-community/docker-registry-boshrelease
@@ -261,6 +264,7 @@
 - url: https://github.com/cloudfoundry-community/slack-notification-resource-boshrelease
 - url: https://github.com/cloudfoundry-community/tor-boshrelease
 - url: https://github.com/cloudfoundry/routing-release
+  min_version: 0.187.0
 - url: https://github.com/cloudfoundry/istio-release
 - url: https://github.com/cloudfoundry-incubator/diego-docker-cache-release
 - url: https://github.com/cloudfoundry-community/git-server-release
@@ -276,7 +280,6 @@
   min_version: 3
 - url: https://github.com/vito/grafana-boshrelease
 - url: https://github.com/vito/influxdb-boshrelease
-- url: https://github.com/xoebus/riemann-boshrelease
 - url: https://github.com/cloudfoundry-community/simple-remote-syslog-boshrelease
 - url: https://github.com/cppforlife/test-release
 - url: https://github.com/cloudfoundry-community/broker-registrar-boshrelease
@@ -370,6 +373,10 @@
 - url: https://github.com/cloudfoundry/service-logs-release
   min_version: 1.0
 - url: https://github.com/pivotal-cf/telemetry-release
+- url: https://github.com/cloudfoundry-incubator/notifications-release
+  min_version: 2.0
+- url: https://github.com/cloudfoundry-incubator/event-log-release.git
+- url: https://github.com/dohq/terraboard-boshrelease
+  min_version: 1.0.0
 - url: https://github.com/orange-cloudfoundry/generic-scripting-release
   min-version: 3
-
