@@ -380,3 +380,4 @@
   min_version: 1.0.0
 - url: https://github.com/orange-cloudfoundry/generic-scripting-release
   min-version: 3
+- url: https://github.com/grapeup/filesystem-bbr-boshrelease
