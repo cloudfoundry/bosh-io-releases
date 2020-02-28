@@ -378,3 +378,5 @@
 - url: https://github.com/cloudfoundry-incubator/event-log-release.git
 - url: https://github.com/dohq/terraboard-boshrelease
   min_version: 1.0.0
+- url: https://github.com/orange-cloudfoundry/generic-scripting-release
+  min-version: 3
