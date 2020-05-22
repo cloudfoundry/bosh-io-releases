@@ -7,11 +7,12 @@ PR changes to index.yml to submit additional releases for review.
 Checklist for submission:
 
 - LICENSE and NOTICE files are up to date
-- at least one final release is checked in on default repo branch
-- ff use to the general community
+- at least one final release is checked in on the default repo branch
+- of use to the general community
 - will be maintained
 - github repo must be public
 - `bosh create-release` must run successfully against any final releases
+- a README explaining what the repo does
 - [optional] Github repo has a descriptive project title
 - [optional] manifests/ directory contains example manifest
 
