@@ -277,6 +277,8 @@
 - url: https://github.com/cloudfoundry-community/stannis-boshrelease
 - url: https://github.com/DataDog/datadog-agent-boshrelease
   min_version: 1.0.5140
+- url: https://github.com/DataDog/datadog-cluster-agent-boshrelease
+  min_version: 1.0.0
 - url: https://github.com/cloudfoundry-community/xip-release
 - url: https://github.com/cloudfoundry-community/cf-subway-boshrelease
 - url: https://github.com/rakutentech/postgres-backup-boshrelease
