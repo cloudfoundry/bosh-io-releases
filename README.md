@@ -21,6 +21,8 @@ Checklist for submission:
  
  If any errors occur, we may create an Issue on the repo in question.
  If the release looks to have no recent activity we'll remove it from the pipeline. It would still be listed on bosh-io but any updates to the release would require another PR to this repo.
+ 
+ *Note for maintainers: After merging a new release, remember to run the [worker](https://github.com/bosh-io/worker) sync scripts to configure the pipelines*
 
 
 ## FAQ
