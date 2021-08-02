@@ -385,4 +385,4 @@
   min-version: 3
 - url: https://github.com/grapeup/filesystem-bbr-boshrelease
 - url: https://github.com/starkandwayne/awscli2-boshrelease
-- url: https://github.com/starkandwayne/external-postgres-metrics-emitter-release.git
+- url: https://github.com/starkandwayne/external-postgres-metrics-emitter-release
