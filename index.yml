@@ -62,6 +62,7 @@
   categories: [cpi]
 - url: https://github.com/cloudfoundry/bosh-virtualbox-cpi-release
   categories: [cpi]
+  min_version: 0.2.1
 - url: https://github.com/SAP/bosh-kubernetes-cpi-release
   categories: [cpi]
   min_version: 5
