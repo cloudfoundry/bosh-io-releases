@@ -55,12 +55,12 @@
 - url: https://github.com/cloudfoundry-community/bosh-cloudstack-cpi-release
   categories: [cpi]
   min_version: 5
-- url: https://github.com/cppforlife/bosh-warden-cpi-release
+- url: https://github.com/cloudfoundry/bosh-warden-cpi-release
   categories: [cpi]
   min_version: 10
-- url: https://github.com/cppforlife/bosh-docker-cpi-release
+- url: https://github.com/cloudfoundry/bosh-docker-cpi-release
   categories: [cpi]
-- url: https://github.com/cppforlife/bosh-virtualbox-cpi-release
+- url: https://github.com/cloudfoundry/bosh-virtualbox-cpi-release
   categories: [cpi]
 - url: https://github.com/SAP/bosh-kubernetes-cpi-release
   categories: [cpi]
