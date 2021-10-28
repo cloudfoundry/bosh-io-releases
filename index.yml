@@ -57,7 +57,7 @@
   min_version: 5
 - url: https://github.com/cloudfoundry/bosh-warden-cpi-release
   categories: [cpi]
-  min_version: 10
+  min_version: 40
 - url: https://github.com/cloudfoundry/bosh-docker-cpi-release
   categories: [cpi]
 - url: https://github.com/cloudfoundry/bosh-virtualbox-cpi-release
