@@ -316,8 +316,10 @@
 - url: https://github.com/cloudfoundry-incubator/garden-windows-bosh-release
 - url: https://github.com/cloudfoundry/grootfs-release
 - url: https://github.com/cloudfoundry-community/cron-boshrelease
-- url: https://github.com/cloudfoundry-community/haproxy-boshrelease
-  min_version: 8.0.6
+- url: https://github.com/cloudfoundry/haproxy-boshrelease
+  min_version: 11.7.1
+- url: https://github.com/cloudfoundry-incubator/haproxy-boshrelease
+  min_version: 8.1.0
 - url: https://github.com/cloudfoundry/bosh-hm-forwarder-release
   min_version: 1.0.11
 - url: https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry
@@ -329,8 +331,6 @@
 - url: https://github.com/cloudfoundry-community/etcd-cf-service-broker-boshrelease
 - url: https://github.com/flavorjones/windows-ruby-dev-tools-release
   min_version: 3
-- url: https://github.com/cloudfoundry-incubator/haproxy-boshrelease
-  min_version: 8.1.0
 - url: https://github.com/DataDog/datadog-firehose-nozzle-release
   min_version: 62
 - url: https://github.com/vito/vault-boshrelease
