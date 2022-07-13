@@ -79,6 +79,8 @@
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/cflinuxfs3-release
   categories: [cf-core]
+- url: https://github.com/cloudfoundry/cflinuxfs4-release
+  categories: [cf-core]
 - url: https://github.com/cloudfoundry-incubator/windows2016fs-online-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/windows1803fs-online-release
