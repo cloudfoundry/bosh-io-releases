@@ -106,9 +106,6 @@
 - url: https://github.com/cloudfoundry/cf-networking-release
   categories: [cf-core]
   min_version: 1.8.0
-  - url: https://github.com/cloudfoundry/healthchecker-release
-  categories: [cf-core]
-  min_version: 0.1.0
 - url: https://github.com/cloudfoundry-incubator/consul-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/loggregator-release
