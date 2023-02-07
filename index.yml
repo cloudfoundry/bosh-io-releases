@@ -98,7 +98,7 @@
   categories: [cf-core, homepage]
   homepage: true
   min_version: 15
-- url: https://github.com/cloudfoundry-incubator/pxc-release
+- url: https://github.com/cloudfoundry/pxc-release
   categories: [cf-core]
 - url: https://github.com/cloudfoundry/cf-syslog-drain-release
   categories: [cf-core]
