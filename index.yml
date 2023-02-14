@@ -223,6 +223,8 @@
 # Service brokers
 - url: https://github.com/cloudfoundry-community/kafka-service-broker-boshrelease
   categories: [servicebroker]
+- url: https://github.com/pivotal-cf/on-demand-service-broker-release
+  categories: [servicebroker]
 
 # Others
 - url: https://github.com/cloudfoundry/bosh-aws-tools-release
