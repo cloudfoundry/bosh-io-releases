@@ -394,3 +394,5 @@
 - url: https://github.com/starkandwayne/awscli2-boshrelease
 - url: https://github.com/starkandwayne/external-postgres-metrics-emitter-release
 - url: https://github.com/springernature/varnish-boshrelease
+- url: https://github.com/VictoriaMetrics/victoriametrics-boshrelease
+  min_version: 0.22
