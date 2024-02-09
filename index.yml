@@ -296,6 +296,7 @@
 - url: https://github.com/cloudfoundry-community/broker-registrar-boshrelease
 - url: https://github.com/cloudfoundry-community/memcache-release
 - url: https://github.com/cloudfoundry-community/vault-boshrelease
+- url: https://github.com/cloudfoundry-community/loki-boshrelease
 - url: https://github.com/cloudfoundry-community/safe-boshrelease
 - url: https://github.com/starkandwayne/flowdock-concourse-notification-boshrelease
 - url: https://github.com/starkandwayne/shield-boshrelease
