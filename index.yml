@@ -398,3 +398,10 @@
 - url: https://github.com/starkandwayne/external-postgres-metrics-emitter-release
 - url: https://github.com/springernature/varnish-boshrelease
 - url: https://github.com/VictoriaMetrics/victoriametrics-boshrelease
+- url: https://github.com/orange-cloudfoundry/k3s-wrapper-boshrelease
+- url: https://github.com/orange-cloudfoundry/k3s-packages-boshrelease
+- url: https://github.com/orange-cloudfoundry/nerdctl-package-boshrelease
+- url: https://github.com/orange-cloudfoundry/k9s-package-boshrelease
+
+
+
