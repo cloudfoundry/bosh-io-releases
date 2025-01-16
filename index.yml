@@ -402,6 +402,6 @@
 - url: https://github.com/orange-cloudfoundry/k3s-packages-boshrelease
 - url: https://github.com/orange-cloudfoundry/nerdctl-package-boshrelease
 - url: https://github.com/orange-cloudfoundry/k9s-package-boshrelease
-
+- url: https://github.com/daichi703n/praeco-boshrelease
 
 
