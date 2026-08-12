@@ -251,10 +251,6 @@
   categories: [homepage]
   homepage: true
   min_version: 54
-- url: https://github.com/pivotal-cf/cf-rabbitmq-multitenant-broker-release
-  min_version: 6
-- url: https://github.com/pivotal-cf/cf-rabbitmq-smoke-tests-release
-  min_version: 20.0.0
 - url: https://github.com/cloudfoundry-community/admin-ui-boshrelease
   min_version: 4
 - url: https://github.com/pivotal-cf/shared-redis-release
@@ -380,8 +376,6 @@
 - url: https://github.com/dpb587/caddy-bosh-release
 - url: https://github.com/cloudfoundry/service-metrics-release
   min_version: 1.6.0
-- url: https://github.com/vmware/harbor-boshrelease
-  min_version: 1.5.0
 - url: https://github.com/cloudfoundry-incubator/cfcr-etcd-release
 - url: https://github.com/cloudfoundry-incubator/app-autoscaler-release
   min_version: 1.0.0
@@ -389,8 +383,6 @@
   min_version: 1.0
 - url: https://github.com/cloudfoundry/service-logs-release
   min_version: 1.0
-- url: https://github.com/cloudfoundry-incubator/notifications-release
-  min_version: 2.0
 - url: https://github.com/cloudfoundry-incubator/event-log-release
 - url: https://github.com/orange-cloudfoundry/generic-scripting-release
   min-version: 3
