@@ -68,6 +68,9 @@
 - url: https://github.com/SAP/bosh-kubernetes-cpi-release
   categories: [cpi]
   min_version: 5
+- url: https://github.com/fivetwenty-io/bosh-proxmox-cpi-release
+  categories: [cpi]
+  min_version: 0.5.0
 # This release uses a local blobstore, which means that the releases are not
 # able to be created.
 # - url: https://github.com/cloudfoundry-incubator/bosh-alicloud-cpi-release
