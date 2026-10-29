@@ -71,6 +71,9 @@
 - url: https://github.com/fivetwenty-io/bosh-proxmox-cpi-release
   categories: [cpi]
   min_version: 0.5.0
+- url: https://github.com/cloudfoundry/bosh-gdc-cpi-release
+  categories: [cpi]
+  min_version: 0.1.0
 # This release uses a local blobstore, which means that the releases are not
 # able to be created.
 # - url: https://github.com/cloudfoundry-incubator/bosh-alicloud-cpi-release
